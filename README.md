@@ -100,9 +100,3 @@ The `output/project_demo_videos.zip` file provides an essential **Proof of Conce
   * **Scenario 1:** Successful Verification (Registered User, Dissimilarity below Threshold).
   * **Scenario 2:** Rejection (New User, Dissimilarity above Threshold).
   * **Scenario 3:** Demonstration of the **FastAPI** server interface (e.g., Swagger UI) for submitting requests.
-
-### Showcase
-
-![images](https://github.com/MahdisSep/Deep-Face-Verification-PyTorch/blob/main/output/output2.mp4)
-
------
